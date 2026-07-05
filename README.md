@@ -6,7 +6,7 @@
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+[NeetCode.io](https://neetcode.io) This is just me revising my DSA on NEETCODE and keeping a track of it on this repo
 
 ---
 
